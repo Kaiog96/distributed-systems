@@ -1,0 +1,24 @@
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojAssemblyReference.cache
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CopyComplete
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\DELL-Fabio\Documents\Visual Studio 2017\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojResolveAssemblyReference.cache
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\a120065\Desktop\exemplo\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.Cache
