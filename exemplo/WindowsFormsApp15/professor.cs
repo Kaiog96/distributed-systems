@@ -11,7 +11,7 @@ namespace WindowsFormsApp15
         public string id { get; set; }
         public string nome { get; set; }
         public string idade { get; set; }
-        public string diciplina { get; set; }
+        public string cidade { get; set; }
 
     }
 }

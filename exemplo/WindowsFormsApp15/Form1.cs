@@ -23,10 +23,10 @@ namespace WindowsFormsApp15
         {
             var json = Newtonsoft.Json.JsonConvert.SerializeObject(new professor
             {
-                id = "21325",
-                nome = "Fábio",
-                idade = "22",
-                diciplina = "SAP",
+                id = textId.Text,
+                nome = textNome.Text,
+                idade = textIdade.Text,
+                cidade = textCidade.Text,
             });
             var request = WebRequest.CreateHttp("https://sistemasdistribuidos-fef5c.firebaseio.com/professores/.json");
             request.Method = "POST";
