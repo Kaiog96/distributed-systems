@@ -41,7 +41,7 @@ namespace WindowsFormsApp15
         private void button2_Click(object sender, EventArgs e)
         {
 
-            var request = WebRequest.CreateHttp("https://sistemasdistribuidos-fef5c.firebaseio.com/.json");
+            var request = WebRequest.CreateHttp("https://sistemasdistribuidos-fef5c.firebaseio.com/professores/.json");
             request.Method = "GET";
             request.ContentType = "application/json";
             HttpWebResponse response1 = request.GetResponse() as HttpWebResponse;

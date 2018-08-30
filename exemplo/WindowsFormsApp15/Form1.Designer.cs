@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.Listar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textNome = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.textId = new System.Windows.Forms.TextBox();
             this.Id = new System.Windows.Forms.Label();
+            this.Lista = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // button1
@@ -50,15 +51,15 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // Listar
             // 
-            this.button2.Location = new System.Drawing.Point(332, 41);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.Listar.Location = new System.Drawing.Point(332, 41);
+            this.Listar.Name = "Listar";
+            this.Listar.Size = new System.Drawing.Size(75, 23);
+            this.Listar.TabIndex = 1;
+            this.Listar.Text = "Listar";
+            this.Listar.UseVisualStyleBackColor = true;
+            this.Listar.Click += new System.EventHandler(this.button2_Click);
             // 
             // label1
             // 
@@ -124,11 +125,22 @@
             this.Id.TabIndex = 9;
             this.Id.Text = "Id";
             // 
+            // Lista
+            // 
+            this.Lista.DisplayMember = "Nome";
+            this.Lista.FormattingEnabled = true;
+            this.Lista.Location = new System.Drawing.Point(25, 233);
+            this.Lista.Name = "Lista";
+            this.Lista.Size = new System.Drawing.Size(270, 108);
+            this.Lista.TabIndex = 10;
+            this.Lista.ValueMember = "Id";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(730, 385);
+            this.Controls.Add(this.Lista);
             this.Controls.Add(this.Id);
             this.Controls.Add(this.textId);
             this.Controls.Add(this.label3);
@@ -137,7 +149,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textNome);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.Listar);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "textIdade";
@@ -149,7 +161,7 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button Listar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textNome;
         private System.Windows.Forms.Label label2;
@@ -158,6 +170,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textId;
         private System.Windows.Forms.Label Id;
+        private System.Windows.Forms.ListBox Lista;
     }
 }
 
